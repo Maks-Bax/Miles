@@ -3,6 +3,6 @@ public class Main {
         int ticket = 9000;
         int dose = 20;
         int bonus = ticket / dose;
-        System.out.println("Вам начислено" + " " + bonus + " " + "милей.");
+        System.out.println("Вам начислено " + bonus + " милей.");
     }
 }
